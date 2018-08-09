@@ -13,4 +13,4 @@ def home():
         "index.html", 
         title = "Hello Flask",
         message = "Hello, Flask!",
-        content = "on " + formatted_now)
+        content = "on " + formatted_now) 
